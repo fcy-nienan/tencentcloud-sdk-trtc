@@ -30,5 +30,5 @@ Gem::Specification.new do |spec|
     'source_code_uri' => 'https://github.com/fcy-nienan/tencentcloud-sdk-trtc',
   }
 
-  spec.add_dependency('tencentcloud-sdk-common', '~> 1.0')
+  spec.add_dependency('tencentcloud-sdk-common-1.0.119', '~> 1.0.119')
 end
