@@ -15,7 +15,7 @@
 # limitations under the License.
 
 Gem::Specification.new do |spec|
-  spec.name          = 'tencentcloud-sdk-trtc'
+  spec.name          = 'tencentcloud-sdk-trtc-1.0.119'
   spec.version       = File.read(File.expand_path('lib/VERSION', __dir__)).strip
   spec.summary       = 'Tencent Cloud SDK for Ruby - TRTC'
   spec.description   = 'Tencent Cloud Ruby SDK is the official software development kit, which allows Ruby developers to write software that makes use of Tencent Cloud service TRTC.'
